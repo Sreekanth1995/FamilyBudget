@@ -101,9 +101,9 @@ The Family Budget App will be developed using the following technology stack:
 ## 7. Conclusion
 
 The Family Budget App will empower families to take control of their finances by providing a feature-rich platform for tracking income, expenses, and financial goals. With an emphasis on security, performance, and usability, the app aims to be a valuable tool in promoting financial responsibility and better financial decision-making within families.
-
-
-
+##
+##
+##
 ## Functional Requirements for iOS Family Budget App:
 
 1. **User Authentication and Profile Management:**
