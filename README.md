@@ -104,7 +104,7 @@ The Family Budget App will empower families to take control of their finances by
 
 
 
-### Functional Requirements for iOS Family Budget App:
+## Functional Requirements for iOS Family Budget App:
 
 1. **User Authentication and Profile Management:**
    - Users should be able to register and create new accounts using their email or social media accounts.
