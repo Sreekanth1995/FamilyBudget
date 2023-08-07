@@ -87,11 +87,11 @@ The Family Budget App will enable users to:
 
 The Family Budget App will be developed using the following technology stack:
 
-- Front-end: HTML, CSS, JavaScript, React (for web), React Native (for mobile)
-- Back-end: Node.js, Express.js
-- Database: MongoDB or MySQL
+- Front-end: Swift, SwiftUI, Combine, Kotlin
+- Back-end: Firebase
+- Database: Firebase
 - Authentication: JSON Web Tokens (JWT)
-- Hosting: Cloud-based hosting service (e.g., AWS, Azure)
+- Hosting: AppStore, PlayStore
 
 ## 6. Assumptions and Constraints
 
@@ -101,4 +101,57 @@ The Family Budget App will be developed using the following technology stack:
 ## 7. Conclusion
 
 The Family Budget App will empower families to take control of their finances by providing a feature-rich platform for tracking income, expenses, and financial goals. With an emphasis on security, performance, and usability, the app aims to be a valuable tool in promoting financial responsibility and better financial decision-making within families.
+
+
+
+### Functional Requirements for iOS Family Budget App:
+
+1. **User Authentication and Profile Management:**
+   - Users should be able to register and create new accounts using their email or social media accounts.
+   - Users should be able to log in to the app using their credentials and securely access their profile.
+   - Users should have the option to reset their password in case they forget it.
+
+2. **Dashboard and Overview:**
+   - Upon login, users should be presented with a dashboard that gives an overview of their current financial status, including total income, expenses, and available budget.
+   - The dashboard should provide visualizations and charts to help users understand their spending patterns and savings progress.
+
+3. **Income Management:**
+   - Users should be able to add, edit, and delete income sources for each family member from within their profiles.
+   - The app should allow users to categorize income sources (e.g., salary, allowance, bonus) and set whether they are recurring or one-time.
+
+4. **Expense Tracking:**
+   - Users should be able to log expenses and assign them to specific categories (e.g., housing, transportation, groceries).
+   - The app should allow users to add a date, amount, and description for each expense entry.
+   - Users should be able to upload photos of receipts or documents related to specific expenses.
+
+5. **Budget Planning:**
+   - Users should be able to set monthly or custom time frame budgets for different expense categories.
+   - The app should provide users with real-time updates on their budget status and notify them when they are approaching or exceeding their budget limits.
+
+6. **Financial Goal Setting and Tracking:**
+   - Users should be able to create and manage financial goals, such as savings targets or debt reduction plans.
+   - The app should allow users to allocate funds from their income towards specific goals and track their progress over time.
+
+7. **Reports and Analytics:**
+   - Users should have access to detailed reports and analytics that show their financial performance over different time periods.
+   - The app should provide visualizations and charts to help users understand their spending habits and financial trends.
+
+8. **Data Synchronization and Backup:**
+   - The app should synchronize data across multiple iOS devices for users who have the app installed on more than one device.
+   - Users' financial data should be securely backed up to prevent data loss in case of device failure or app reinstallation.
+
+9. **Data Security and Privacy:**
+   - User data, including financial information, should be securely stored and transmitted using encryption methods.
+   - The app should comply with privacy regulations and obtain user consent for data usage.
+
+10. **Localization and Accessibility:**
+   - The app should be localized to support multiple languages, making it accessible to users from different regions.
+   - Efforts should be made to ensure the app is accessible to users with disabilities by adhering to iOS accessibility guidelines.
+
+11. **Offline Functionality:**
+   - The app should allow users to log expenses and view previously synced data even when offline.
+   - Any offline data should sync with the server once an internet connection is reestablished.
+
+12. **User Notifications:**
+   - The app should send timely notifications to users for important events, such as reaching budget limits, upcoming bills, or missed financial goals.
 
