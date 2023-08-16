@@ -101,9 +101,9 @@ The Family Budget App will be developed using the following technology stack:
 ## 7. Conclusion
 
 The Family Budget App will empower families to take control of their finances by providing a feature-rich platform for tracking income, expenses, and financial goals. With an emphasis on security, performance, and usability, the app aims to be a valuable tool in promoting financial responsibility and better financial decision-making within families.
-##
-##
-##
+###
+###
+###
 ## Functional Requirements for iOS Family Budget App:
 
 1. **User Authentication and Profile Management:**
@@ -154,9 +154,15 @@ The Family Budget App will empower families to take control of their finances by
 
 12. **User Notifications:**
    - The app should send timely notifications to users for important events, such as reaching budget limits, upcoming bills, or missed financial goals.
-##
-##
-##
+###
+###
+###
+## Userflow Diagram:
+![Family Budget](user_flow.pdf)
+
+###
+###
+###
 ## UI/UX Design for iOS Family Budget App:
 https://www.behance.net/gallery/153285439/Income-Expence-Manager-Mobile-App-UIUX-Design
 
