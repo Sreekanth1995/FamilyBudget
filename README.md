@@ -158,7 +158,7 @@ The Family Budget App will empower families to take control of their finances by
 ###
 ###
 ## Userflow Diagram:
-![Family Budget](user_flow.jpeg)
+![Family Budget](user_flow.jpg)
 
 ###
 ###
